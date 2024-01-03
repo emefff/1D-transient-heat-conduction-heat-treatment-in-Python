@@ -13,7 +13,11 @@ Subsequently, the slab is cooled with different heat transfer curve until is rea
 
 As a result we get the following temperature curves for core and surface temperature (filtered results due to oscillations in the original data):
 
-![temperature_curves_heating_and cooling](https://github.com/emefff/1D-transient-heat-conduction-heat-treatment-in-Python/assets/89903493/24042ab9-d6e2-4803-9c32-f939d7c1103c)
+![temperature_curves_heating_and cooling](https://github.com/emefff/1D-transient-heat-conduction-heat-treatment-in-Python/assets/89903493/8a452010-0967-4baa-8180-616ff71776c7)
+
+From that we can easily derive the heating and cooling rates (unit: °C / minute) which we can use for comparison with TTT-diagrams etc.:
+
+![heating_cooling_rates](https://github.com/emefff/1D-transient-heat-conduction-heat-treatment-in-Python/assets/89903493/868ea857-99b0-4da4-8a55-46c10aa83724)
 
 emefff@gmx.at
 
