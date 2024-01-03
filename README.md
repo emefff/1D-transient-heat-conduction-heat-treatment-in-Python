@@ -15,6 +15,6 @@ As a result we get the following temperature curves for core and surface tempera
 
 ![temperature_curves_heating_and cooling](https://github.com/emefff/1D-transient-heat-conduction-heat-treatment-in-Python/assets/89903493/24042ab9-d6e2-4803-9c32-f939d7c1103c)
 
-
+emefff@gmx.at
 
 
