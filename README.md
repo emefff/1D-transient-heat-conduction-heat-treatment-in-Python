@@ -1,4 +1,4 @@
-# 1D-transient-heat-conduction-heat-treatment-in-Python
+# 1D-transient-heat-conduction-in-Python
 
 **This work is based on https://github.com/alexlib/trans_heat_cond/blob/master/LICENSE, thanks a lot. 
 The attached code is still work in progress, it shows some weird behaviour under certain conditions (feedback on temperature by oscillating data that feeds back to data....).
