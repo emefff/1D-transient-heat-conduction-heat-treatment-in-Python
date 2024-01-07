@@ -3,7 +3,7 @@
 **This work is based on https://github.com/alexlib/trans_heat_cond/blob/master/LICENSE, thanks a lot. 
 The attached code is still work in progress, it shows some weird behaviour under certain conditions (feedback on temperature by oscillating data that feeds back to data....).
 To-Dos: functionalizing, cleaning up, find reason for weird oscillations etc.
-Use at your own risk, any help is greatly appreciated! Thank you!**
+Use at your own risk. Thank you!**
 
 The 1D transient heat equation is solved for conduction and heat transfer to the surface of a steel slab. This is useful for heat treatment, especially for estimating the soaking time. It is is mostly estimated if FEA is not available (rule of thumb for example for austenitizing: 1 hour per inch of steel thickness). 
 While these rules of thumb are for sure enough for a first estimate, it is not economically viable and in certain steels it can even lead to detrimental results (for example: grain coarsening in tool steels that need very high Ta).
